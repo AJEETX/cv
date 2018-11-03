@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: ajeetkumar@email.com
-    phone: 0432 854 196
+    phone: +61 432 854 196
     website: ajeetx.github.io #do not add http://
     linkedin: ajeetkumartiwari
     github: ajeetx
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -30,8 +30,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
         
     interests:
       - item: Climbing
@@ -57,7 +55,7 @@ career-profile:
 education:
     - degree: Bachelor of Technology in Computer Science
       university: Aligarh Muslim University, INDIA
-      Completed year: 2011 - 2012
+      //Completed year: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +66,7 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -177,22 +173,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: asp.net, c# & .net
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Front-end (Javascript / jQuery & Nodejs)
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: akka.net
+        level: 70%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Angular 6 /ReactJs
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Datastore (SQL Server / NoSql) 
         level: 60%
 
 footer: >
