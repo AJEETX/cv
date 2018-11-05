@@ -42,15 +42,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Careers Profile
-    summary: | Software application modelling & designing is the key interest as well as the strength.
-    
-            - Heuristic mindset to imbibe new technology/concept fulfilling the business goals.
-            - Complete End2End development exposure [Agile] to all SDLC phases
-            - Conceptualize/architect/implement distributed highly scalable loosely coupled systems.
-            - Reactive programming with Akka.net actor-model for micro-services.
-            - Test-Driven/Behavior-Driven methodology(s), creating robust systems.
-            - Led various teams for various projects with challenges with successful deliveries.
+    title: Career Profile
+    summary: |
+      Summarises your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 .
 
 education:
